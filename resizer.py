@@ -80,6 +80,7 @@ def main():
     my_large_resize.resize_large()
     my_medium_resize.resize_medium()
     my_small_resize.resize_small()
-  
+    print("All done!")
+
 if __name__== "__main__":
     main()
